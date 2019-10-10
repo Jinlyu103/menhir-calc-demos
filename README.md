@@ -1,6 +1,6 @@
 # menhir-demos
 
-This program reads arithmetic expressions from testfile.msg. Then returned the result of a int list
+This program reads arithmetic expressions from testfile.msg. Then the result of an int list will be returned.
 
 # how to compile
 corebuild -use-menhir test.native
